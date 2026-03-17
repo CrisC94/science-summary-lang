@@ -197,8 +197,8 @@ section{padding:1.3rem 0 2rem}
 .nav-links .lang-toggle{display:inline-flex;align-items:center;justify-content:center}
 
 .brand-logo {
-  width: 70px;   /* adjust until it matches your old "SS" size */
-  height: 60px;
+  width: 100px;   /* adjust until it matches your old "SS" size */
+  height: 90px;
   object-fit: contain;
   margin-right: 6px;
 }
